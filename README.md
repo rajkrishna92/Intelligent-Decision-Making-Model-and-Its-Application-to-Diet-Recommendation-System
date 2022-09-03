@@ -7,3 +7,5 @@ In the present article an effort has been made to design and develop a diet reco
 
 #### Keywords: Decision Making, Fuzzy Set, Metabolic Disorders, Nutrition, Soft Computing, Utility Matrix
 
+
+Stepwise Calculation: New Microsoft Word Document.pdf
