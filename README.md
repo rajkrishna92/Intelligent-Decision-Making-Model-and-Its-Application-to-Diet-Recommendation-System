@@ -8,4 +8,3 @@ In the present article an effort has been made to design and develop a diet reco
 #### Keywords: Decision Making, Fuzzy Set, Metabolic Disorders, Nutrition, Soft Computing, Utility Matrix
 
 
-Stepwise Calculation: https://github.com/rajkrishna92/Intelligent-Decision-Making-Model-and-Its-Application-to-Diet-Recommendation-System-for-Metabolic-Di/blob/fc26593d5cd23f0cd7094de0a0e5c4fae79ebe40/New%20Microsoft%20Word%20Document.pdf
